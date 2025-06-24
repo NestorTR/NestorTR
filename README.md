@@ -3,10 +3,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<div align=center>
-Soy desarrollador web junior con formación en Ingeniería en Computación y egresado de un bootcamp intensivo de desarrollo web donde fortalecí mis habilidades en tecnologías modernas de frontend y backend. Me apasiona crear aplicaciones web funcionales, accesibles y con una buena experiencia de usuario.
-Actualmente estoy enfocado en seguir aprendiendo y construyendo proyectos con tecnologías como HTML, CSS, JavaScript, React, Node.js, Express y MongoDB. Disfruto trabajar en equipo, resolver problemas y aprender nuevas herramientas para mejorar como desarrollador.
+<div align="center">
+
+<p align="center" style="max-width: 600px;">
+📚 Actualmente estudio <strong>Ingeniería en Computación</strong> y me gradué de un <strong>bootcamp intensivo de desarrollo web</strong> (abril 2024 - mayo 2025), donde fortalecí mis habilidades en tecnologías modernas tanto del frontend como del backend.
+</p>
+
+<p align="center" style="max-width: 600px;">
+💻 Me apasiona construir aplicaciones <strong>funcionales</strong>, <strong>accesibles</strong> y con una gran <strong>experiencia de usuario</strong>. Disfruto trabajar en equipo, resolver problemas y aprender nuevas herramientas que me ayuden a crecer como desarrollador.
+</p>
+
+
 </div>
+
 
 ----
 
